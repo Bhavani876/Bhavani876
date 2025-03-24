@@ -14,7 +14,8 @@
 
 ###
 
-<p align="left">1.Data Analytics using Excel<br>2.MYSQL<br>3.Python for data science (Numpy,Pandas,Matplotlib,Seaborn)<br>4.EDA (Exploratory Data Analysis)<br>5.Statistics using Python<br>6.Data Visualizations<br>7.Tableau<br>8.Power BI<br>9.Machine Learning (Regression,Classification,Clustering)<br>10.Natural Language Processing</p>
+<p align="left">1.Data Analytics using Excel<br>2.MYSQL<br>3.Python for data science (Numpy,Pandas,Matplotlib,Seaborn)<br>4.EDA (Exploratory Data Analysis)<br>5.Statistics using Python<br>6.Data Visualizations<br>7.Tableau<br>8.Power BI<br>9.Machine Learning (Regression,Classification,Clustering)<br>10.Natural Language Processing <br>Library: NumPy, pandas, matplotlib, seaborn,
+Scikit-learn, SciPy, NLTK <br> AWS - EC2, S3, Redshift, Sage Maker</p>
 
 ###
 

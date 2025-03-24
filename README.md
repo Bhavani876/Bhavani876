@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm passionate about Data Scientist .<br><br>I'm a new data scientist who knows stats, programming, and data analysis well. I use data to solve business problems and help with decisions. I'm excited to join a team, learn more, and get better at data science.</p>
+<p align="left">Data Scientist with hands-on experience in data analysis, machine learning, and process optimization. Currently working as a contractor at Apollo Tyres Innovation Hub on real-world projects, leveraging data for informed decision-making. Skilled in Python, SQL, and data visualization, with a strong ability to extract insights and optimize processes. Passionate about AI, automation, and problem-solving with data, continuously exploring innovative techniques to enhance efficiency and drive impactful solutions..</p>
 
 ###
 
